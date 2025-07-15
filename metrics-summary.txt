@@ -1,0 +1,8 @@
+Monitored Metrics Summary (Simulated):
+
+- CPU Utilization (%)
+- Memory Usage (MB)
+- Disk Space Usage (GB)
+- HTTP Request Errors (500-level)
+- Network Traffic (MB/s)
+- Latency (ms)
